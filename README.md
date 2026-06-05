@@ -1,5 +1,8 @@
 # Personal Expense Analytics 2024
 
+## Intern Details
+Intern ID: CITS1301
+
 ## Description
 Monthly personal expense tracking and analysis using Excel.
 
